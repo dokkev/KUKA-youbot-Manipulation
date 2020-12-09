@@ -8,7 +8,7 @@ and deliver it to the desired location in the CoppeliaSim simulation.
 
 ### RESULTS
 
-![xerr](https://raw.github.com/rubberdk/KUKA-youbot-Manipulation/master/Xerr_best).png)
+![xerr](https://raw.github.com/rubberdk/KUKA-youbot-Manipulation/master/Xerr_best.png)
 
 
 ![](https://media.giphy.com/media/NjXWn2xkvkNRTFdRDS/giphy.gif)
